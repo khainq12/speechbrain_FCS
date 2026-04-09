@@ -1,0 +1,112 @@
+[
+    {
+        "input_wav": "cbdf5700-452c-11e9-b1e4-e5985dca719e.wav",
+        "fsc_raw_output": "{\"action:\" \"activate\"| \"object\": \"lights\"| \"location\": \"none\"}",
+        "uav_mapped_dict": {
+            "command_type": "system",
+            "direction": "hover",
+            "altitude_action": "hold",
+            "magnitude": "medium",
+            "urgency": "low",
+            "safety": "normal"
+        },
+        "semantic_packet_serialized": "{\"command_type\": \"system\", \"direction\": \"hover\", \"altitude_action\": \"hold\", \"magnitude_rank\": 0, \"urgency_rank\": 0, \"safety_rank\": 0, \"confidence\": 0.99}",
+        "token_sequence": [
+            3,
+            7,
+            3,
+            0,
+            0,
+            0,
+            99
+        ]
+    },
+    {
+        "input_wav": "cff92500-452c-11e9-b1e4-e5985dca719e.wav",
+        "fsc_raw_output": "{\"action:\" \"deactivate\"| \"object\": \"lights\"| \"location\": \"none\"}",
+        "uav_mapped_dict": {
+            "command_type": "system",
+            "direction": "hover",
+            "altitude_action": "hold",
+            "magnitude": "medium",
+            "urgency": "low",
+            "safety": "normal"
+        },
+        "semantic_packet_serialized": "{\"command_type\": \"system\", \"direction\": \"hover\", \"altitude_action\": \"hold\", \"magnitude_rank\": 0, \"urgency_rank\": 0, \"safety_rank\": 0, \"confidence\": 0.99}",
+        "token_sequence": [
+            3,
+            7,
+            3,
+            0,
+            0,
+            0,
+            99
+        ]
+    },
+    {
+        "input_wav": "d36722a0-452c-11e9-b1e4-e5985dca719e.wav",
+        "fsc_raw_output": "{\"action:\" \"change language\"| \"object\": \"none\"| \"location\": \"none\"}",
+        "uav_mapped_dict": {
+            "command_type": "config",
+            "direction": "hover",
+            "altitude_action": "hold",
+            "magnitude": "medium",
+            "urgency": "low",
+            "safety": "normal"
+        },
+        "semantic_packet_serialized": "{\"command_type\": \"config\", \"direction\": \"hover\", \"altitude_action\": \"hold\", \"magnitude_rank\": 0, \"urgency_rank\": 0, \"safety_rank\": 0, \"confidence\": 0.99}",
+        "token_sequence": [
+            5,
+            7,
+            3,
+            0,
+            0,
+            0,
+            99
+        ]
+    },
+    {
+        "input_wav": "d73086b0-452c-11e9-b1e4-e5985dca719e.wav",
+        "fsc_raw_output": "{\"action:\" \"deactivate\"| \"object\": \"music\"| \"location\": \"none\"}",
+        "uav_mapped_dict": {
+            "command_type": "system",
+            "direction": "hover",
+            "altitude_action": "hold",
+            "magnitude": "medium",
+            "urgency": "low",
+            "safety": "normal"
+        },
+        "semantic_packet_serialized": "{\"command_type\": \"system\", \"direction\": \"hover\", \"altitude_action\": \"hold\", \"magnitude_rank\": 0, \"urgency_rank\": 0, \"safety_rank\": 0, \"confidence\": 0.99}",
+        "token_sequence": [
+            3,
+            7,
+            3,
+            0,
+            0,
+            0,
+            99
+        ]
+    },
+    {
+        "input_wav": "da54f830-452c-11e9-b1e4-e5985dca719e.wav",
+        "fsc_raw_output": "{\"action:\" \"activate\"| \"object\": \"music\"| \"location\": \"none\"}",
+        "uav_mapped_dict": {
+            "command_type": "system",
+            "direction": "hover",
+            "altitude_action": "hold",
+            "magnitude": "medium",
+            "urgency": "low",
+            "safety": "normal"
+        },
+        "semantic_packet_serialized": "{\"command_type\": \"system\", \"direction\": \"hover\", \"altitude_action\": \"hold\", \"magnitude_rank\": 0, \"urgency_rank\": 0, \"safety_rank\": 0, \"confidence\": 0.99}",
+        "token_sequence": [
+            3,
+            7,
+            3,
+            0,
+            0,
+            0,
+            99
+        ]
+    }
+]
